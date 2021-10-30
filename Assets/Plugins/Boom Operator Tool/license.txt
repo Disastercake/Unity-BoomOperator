@@ -1,0 +1,8 @@
+Code:
+Copyright (c) 2021 Disastercake. MIT License (https://opensource.org/licenses/MIT).
+Latest version can be found at: ...
+
+Art:
+boomoperator_gizmo.png
+Retrieved 10/30/2021 from https://www.onlinewebfonts.com/icon/442502
+Icon made from Icon Fonts is licensed by CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
